@@ -12,5 +12,9 @@ color:
     - '#EEEFF7'
 layout_spectrum: 0.7789505438413471
 name: POETREE TEST
+navigation:
+  - name: Let's connect on LinkedIn
+    url: 'https://www.linkedin.com/in/roupertmuller'
+    type: external
 title: Digital Agency
 description: All about performance
